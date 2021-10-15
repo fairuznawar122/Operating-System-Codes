@@ -1,0 +1,2 @@
+Page Fault In LRU: 12
+Fault Rate: 55%

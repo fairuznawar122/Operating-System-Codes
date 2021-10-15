@@ -1,0 +1,8 @@
+File A Allocated
+File B can't be allocated
+File C Allocated
+
+
+File Search : 
+File A found in the blocks : 1 9 10 20 
+File D NOT found.
